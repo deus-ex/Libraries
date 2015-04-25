@@ -7,10 +7,10 @@
   * has cache system integrated along side making it very effective and powerful
   * database class..
   *
-  * @version:       2.9.14
+  *	@version:       2.9.14
   * @package        Stvdi
-  * @author:        Jencube Team
-  * @license:       http://opensource.org/licenses/gpl-license.php 
+  *	@author:        Jencube Team
+  *	@license:       http://opensource.org/licenses/gpl-license.php 
   *                 GNU General Public License (GPL)
   * @copyright:     Copyright (c) 2013 - 2015 Jencube
   * @twitter:       @deusex0 & @One_Oracle
